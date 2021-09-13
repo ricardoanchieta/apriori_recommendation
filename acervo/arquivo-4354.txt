@@ -1,0 +1,9 @@
+pip fruit
+root vegetables
+other vegetables
+whole milk
+rolls/buns
+brown bread
+canned beer
+newspapers
+potted plants

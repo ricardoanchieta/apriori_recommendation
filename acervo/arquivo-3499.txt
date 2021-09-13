@@ -1,0 +1,17 @@
+pip fruit
+berries
+root vegetables
+yogurt
+soft cheese
+hard cheese
+frozen meals
+frozen fish
+frozen dessert
+white bread
+pastry
+pasta
+cereals
+soda
+long life bakery product
+cake bar
+detergent

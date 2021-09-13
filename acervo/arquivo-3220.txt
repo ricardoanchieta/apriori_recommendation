@@ -1,0 +1,9 @@
+pip fruit
+berries
+other vegetables
+whole milk
+yogurt
+domestic eggs
+rolls/buns
+pastry
+margarine

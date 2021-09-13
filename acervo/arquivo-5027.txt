@@ -1,0 +1,7 @@
+pip fruit
+other vegetables
+butter milk
+hard cheese
+rolls/buns
+seasonal products
+napkins

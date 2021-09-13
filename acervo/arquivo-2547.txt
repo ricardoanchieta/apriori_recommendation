@@ -1,0 +1,9 @@
+pip fruit
+nuts/prunes
+root vegetables
+condensed milk
+rolls/buns
+pickled vegetables
+coffee
+canned beer
+liquor (appetizer)

@@ -1,0 +1,8 @@
+pip fruit
+curd
+dessert
+yogurt
+specialty chocolate
+specialty bar
+newspapers
+shopping bags

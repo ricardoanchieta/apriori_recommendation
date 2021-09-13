@@ -1,0 +1,4 @@
+pip fruit
+pasta
+oil
+shopping bags

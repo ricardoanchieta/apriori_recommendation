@@ -1,0 +1,13 @@
+pip fruit
+onions
+other vegetables
+whole milk
+butter
+soft cheese
+domestic eggs
+white bread
+margarine
+cocoa drinks
+bottled water
+fruit/vegetable juice
+chocolate

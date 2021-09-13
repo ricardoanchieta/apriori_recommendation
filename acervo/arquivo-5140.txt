@@ -1,0 +1,8 @@
+pip fruit
+root vegetables
+frozen vegetables
+frozen potato products
+pastry
+fruit/vegetable juice
+napkins
+bags

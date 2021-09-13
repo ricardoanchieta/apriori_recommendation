@@ -1,0 +1,10 @@
+pip fruit
+other vegetables
+yogurt
+whipped/sour cream
+domestic eggs
+brown bread
+specialty vegetables
+coffee
+specialty chocolate
+potted plants

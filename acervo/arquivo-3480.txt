@@ -1,0 +1,4 @@
+pip fruit
+brown bread
+misc. beverages
+chewing gum

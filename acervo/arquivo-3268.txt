@@ -1,0 +1,9 @@
+pip fruit
+root vegetables
+other vegetables
+dessert
+domestic eggs
+margarine
+cereals
+soda
+candles

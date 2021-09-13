@@ -1,0 +1,5 @@
+pip fruit
+whole milk
+rolls/buns
+pickled vegetables
+waffles

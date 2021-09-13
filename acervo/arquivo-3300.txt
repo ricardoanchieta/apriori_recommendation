@@ -1,0 +1,7 @@
+pip fruit
+whole milk
+domestic eggs
+margarine
+soda
+chocolate
+napkins

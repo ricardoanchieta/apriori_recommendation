@@ -1,0 +1,5 @@
+pip fruit
+whole milk
+ready soups
+canned fish
+soda

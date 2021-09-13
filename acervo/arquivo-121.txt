@@ -1,0 +1,4 @@
+packaged fruit/vegetables
+dessert
+semi-finished bread
+canned beer

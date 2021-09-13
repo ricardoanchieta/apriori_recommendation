@@ -1,0 +1,6 @@
+pip fruit
+bottled water
+soda
+fruit/vegetable juice
+canned beer
+newspapers

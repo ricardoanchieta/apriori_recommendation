@@ -1,0 +1,3 @@
+cat food
+dish cleaner
+shopping bags

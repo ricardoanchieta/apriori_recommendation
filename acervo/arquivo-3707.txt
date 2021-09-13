@@ -1,0 +1,8 @@
+pip fruit
+onions
+other vegetables
+rolls/buns
+Instant food products
+tea
+bottled water
+salty snack

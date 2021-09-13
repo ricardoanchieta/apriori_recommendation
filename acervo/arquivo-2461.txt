@@ -1,0 +1,9 @@
+pip fruit
+root vegetables
+whole milk
+whipped/sour cream
+processed cheese
+white bread
+flour
+fruit/vegetable juice
+napkins

@@ -1,0 +1,7 @@
+pip fruit
+whole milk
+pastry
+waffles
+cake bar
+specialty bar
+shopping bags

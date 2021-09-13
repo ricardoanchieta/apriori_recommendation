@@ -1,0 +1,8 @@
+pip fruit
+UHT-milk
+semi-finished bread
+cat food
+bottled water
+chocolate
+candy
+shopping bags

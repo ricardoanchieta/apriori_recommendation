@@ -1,0 +1,7 @@
+pip fruit
+white bread
+coffee
+soda
+fruit/vegetable juice
+bottled beer
+sparkling wine

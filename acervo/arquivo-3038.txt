@@ -1,0 +1,12 @@
+pip fruit
+grapes
+whole milk
+yogurt
+spread cheese
+brown bread
+semi-finished bread
+rice
+pickled vegetables
+bottled beer
+newspapers
+potted plants

@@ -1,0 +1,5 @@
+pip fruit
+whipped/sour cream
+hard cheese
+bottled water
+fruit/vegetable juice

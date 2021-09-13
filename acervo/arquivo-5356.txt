@@ -1,0 +1,5 @@
+pip fruit
+misc. beverages
+chewing gum
+specialty chocolate
+shopping bags

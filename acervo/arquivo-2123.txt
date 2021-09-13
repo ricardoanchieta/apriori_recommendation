@@ -1,0 +1,8 @@
+pip fruit
+other vegetables
+whole milk
+yogurt
+beverages
+frozen potato products
+rolls/buns
+fruit/vegetable juice

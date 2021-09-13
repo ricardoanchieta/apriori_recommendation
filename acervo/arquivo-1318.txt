@@ -1,0 +1,6 @@
+pip fruit
+root vegetables
+other vegetables
+whole milk
+chewing gum
+kitchen towels

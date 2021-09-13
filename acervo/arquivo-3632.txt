@@ -1,0 +1,7 @@
+cat food
+bottled water
+soda
+white wine
+salty snack
+napkins
+kitchen towels

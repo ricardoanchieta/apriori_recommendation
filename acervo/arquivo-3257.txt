@@ -1,0 +1,9 @@
+pip fruit
+root vegetables
+butter
+UHT-milk
+rolls/buns
+coffee
+soda
+bottled beer
+red/blush wine

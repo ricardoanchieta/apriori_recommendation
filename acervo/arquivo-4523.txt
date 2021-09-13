@@ -1,0 +1,10 @@
+pip fruit
+root vegetables
+UHT-milk
+condensed milk
+margarine
+sugar
+pudding powder
+cocoa drinks
+fruit/vegetable juice
+chocolate

@@ -1,0 +1,7 @@
+pip fruit
+beverages
+frozen vegetables
+frozen meals
+bottled water
+soda
+salty snack

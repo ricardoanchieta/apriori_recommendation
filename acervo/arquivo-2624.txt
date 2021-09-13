@@ -1,0 +1,5 @@
+chicken
+pip fruit
+whole milk
+pastry
+coffee

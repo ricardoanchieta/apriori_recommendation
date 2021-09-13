@@ -1,0 +1,6 @@
+ham
+pip fruit
+other vegetables
+cream cheese
+pastry
+bottled beer

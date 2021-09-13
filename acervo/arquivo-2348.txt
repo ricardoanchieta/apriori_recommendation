@@ -1,0 +1,5 @@
+pip fruit
+root vegetables
+other vegetables
+whole milk
+yogurt

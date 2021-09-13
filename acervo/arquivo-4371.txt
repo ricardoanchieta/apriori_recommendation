@@ -1,0 +1,6 @@
+pip fruit
+root vegetables
+onions
+other vegetables
+frozen vegetables
+pastry

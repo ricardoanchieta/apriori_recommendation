@@ -1,0 +1,8 @@
+pip fruit
+root vegetables
+whole milk
+yogurt
+white bread
+soda
+chocolate
+hygiene articles

@@ -1,0 +1,12 @@
+meat
+pip fruit
+dessert
+processed cheese
+domestic eggs
+rolls/buns
+white bread
+brown bread
+pastry
+semi-finished bread
+candy
+cookware

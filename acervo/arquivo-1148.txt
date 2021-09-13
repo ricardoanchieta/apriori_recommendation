@@ -1,0 +1,9 @@
+pip fruit
+other vegetables
+butter
+yogurt
+whipped/sour cream
+brown bread
+pastry
+fruit/vegetable juice
+detergent

@@ -1,0 +1,6 @@
+pip fruit
+whole milk
+coffee
+bottled water
+fruit/vegetable juice
+bottled beer

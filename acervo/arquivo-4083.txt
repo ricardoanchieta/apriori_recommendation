@@ -1,0 +1,10 @@
+pip fruit
+nuts/prunes
+whole milk
+yogurt
+whipped/sour cream
+cream cheese
+rolls/buns
+waffles
+chocolate
+newspapers

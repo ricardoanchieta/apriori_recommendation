@@ -1,0 +1,7 @@
+pip fruit
+root vegetables
+whole milk
+rolls/buns
+pastry
+coffee
+chocolate

@@ -1,0 +1,10 @@
+pip fruit
+onions
+whole milk
+yogurt
+frozen vegetables
+frozen fish
+rolls/buns
+semi-finished bread
+margarine
+bottled beer

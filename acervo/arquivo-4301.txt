@@ -1,0 +1,6 @@
+turkey
+pip fruit
+other vegetables
+dessert
+brown bread
+soda

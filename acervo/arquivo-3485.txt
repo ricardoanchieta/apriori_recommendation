@@ -1,0 +1,6 @@
+pip fruit
+yogurt
+frozen vegetables
+domestic eggs
+white bread
+long life bakery product

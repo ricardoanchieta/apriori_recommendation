@@ -1,0 +1,11 @@
+chicken
+pip fruit
+other vegetables
+whole milk
+dessert
+yogurt
+whipped/sour cream
+rolls/buns
+pasta
+soda
+waffles

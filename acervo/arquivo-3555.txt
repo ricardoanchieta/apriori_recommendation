@@ -1,0 +1,8 @@
+pork
+pip fruit
+onions
+other vegetables
+whole milk
+dessert
+yogurt
+whisky

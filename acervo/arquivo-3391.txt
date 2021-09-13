@@ -1,0 +1,7 @@
+pip fruit
+berries
+whole milk
+yogurt
+hard cheese
+frozen vegetables
+popcorn

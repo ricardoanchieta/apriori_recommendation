@@ -1,0 +1,6 @@
+pip fruit
+other vegetables
+whole milk
+yogurt
+brown bread
+pastry

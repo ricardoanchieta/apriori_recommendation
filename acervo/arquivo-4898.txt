@@ -1,0 +1,5 @@
+pip fruit
+whole milk
+beverages
+domestic eggs
+white bread

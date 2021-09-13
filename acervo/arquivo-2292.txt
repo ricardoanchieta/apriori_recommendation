@@ -1,0 +1,6 @@
+chicken
+pip fruit
+UHT-milk
+bottled water
+bottled beer
+shopping bags

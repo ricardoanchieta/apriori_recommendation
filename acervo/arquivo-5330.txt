@@ -1,0 +1,9 @@
+chicken
+pip fruit
+whole milk
+dessert
+margarine
+soda
+canned beer
+liquor
+newspapers

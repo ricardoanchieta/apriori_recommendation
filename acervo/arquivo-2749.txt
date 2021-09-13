@@ -1,0 +1,11 @@
+chicken
+beef
+pip fruit
+berries
+other vegetables
+whole milk
+whipped/sour cream
+frozen fruits
+frozen meals
+domestic eggs
+salty snack

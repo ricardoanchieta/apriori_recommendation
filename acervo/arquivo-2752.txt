@@ -1,0 +1,5 @@
+pip fruit
+other vegetables
+whole milk
+whipped/sour cream
+coffee

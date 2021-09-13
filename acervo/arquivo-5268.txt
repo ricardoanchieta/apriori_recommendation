@@ -1,0 +1,14 @@
+pip fruit
+root vegetables
+whole milk
+butter
+curd
+yogurt
+UHT-milk
+specialty cheese
+white bread
+margarine
+cereals
+pickled vegetables
+coffee
+cake bar

@@ -1,0 +1,9 @@
+pip fruit
+root vegetables
+butter milk
+frozen vegetables
+rolls/buns
+misc. beverages
+fruit/vegetable juice
+newspapers
+potted plants

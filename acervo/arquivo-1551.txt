@@ -1,0 +1,6 @@
+pip fruit
+root vegetables
+whole milk
+ice cream
+bottled beer
+detergent

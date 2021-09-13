@@ -1,0 +1,3 @@
+cat food
+newspapers
+shopping bags

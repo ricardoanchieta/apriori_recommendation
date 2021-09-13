@@ -1,0 +1,6 @@
+pip fruit
+yogurt
+bottled water
+canned beer
+chewing gum
+napkins

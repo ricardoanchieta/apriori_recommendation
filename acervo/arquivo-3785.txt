@@ -1,0 +1,7 @@
+pip fruit
+root vegetables
+UHT-milk
+frozen dessert
+domestic eggs
+margarine
+pickled vegetables

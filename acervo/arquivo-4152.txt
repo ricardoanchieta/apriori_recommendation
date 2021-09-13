@@ -1,0 +1,8 @@
+sausage
+pip fruit
+oil
+cat food
+bottled water
+soda
+bottled beer
+white wine

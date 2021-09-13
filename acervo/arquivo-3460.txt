@@ -1,0 +1,2 @@
+newspapers
+photo/film

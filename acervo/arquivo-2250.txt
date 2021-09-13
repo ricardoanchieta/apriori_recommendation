@@ -1,0 +1,4 @@
+cat food
+bottled water
+white wine
+shopping bags

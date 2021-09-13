@@ -1,0 +1,10 @@
+pork
+pip fruit
+packaged fruit/vegetables
+dessert
+frozen vegetables
+pasta
+margarine
+chocolate marshmallow
+detergent
+softener

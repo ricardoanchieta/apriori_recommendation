@@ -1,0 +1,9 @@
+pip fruit
+yogurt
+cream cheese
+meat spreads
+coffee
+specialty chocolate
+seasonal products
+cookware
+shopping bags

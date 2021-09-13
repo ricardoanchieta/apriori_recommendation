@@ -1,0 +1,5 @@
+pip fruit
+rolls/buns
+bottled water
+soda
+specialty chocolate

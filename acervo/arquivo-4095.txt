@@ -1,0 +1,5 @@
+meat
+pip fruit
+root vegetables
+whole milk
+frozen vegetables
